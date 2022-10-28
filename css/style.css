@@ -1,0 +1,135 @@
+.container{
+    max-width: 1920px;
+    width: 100%;
+    height: 1200px;
+    background-color: yellowgreen;
+}
+aside{
+    width: 18%;
+    height: 100%;
+    background-color: white;
+    float: left;
+    text-align: center;
+}
+header{
+    width: 82%;
+    height: 134px;
+    background-color: rgb(13, 102, 190);
+    float: left 
+
+}
+section{
+    width: 82%;
+    height: 1066px;
+    background-color: white;
+    float: left;
+}
+.baner{
+    padding-top: 52px;
+    
+}
+.name{
+    padding-top: 28px;
+}
+.prof{
+    padding-top: 28px;
+    color: blue;
+}
+.menu{
+    width: 120px;
+    height: 429px;
+    margin: 106px 122px 0 51px;
+}
+.icon1{
+    float: left;
+}
+li{
+    margin-top: 25px;
+    text-align: center;
+}
+.icon2{
+    float: left;
+}
+.icon3{
+    float: left;
+}
+.icon4{
+    float: left;
+}
+.icon5{
+    float: left;
+}
+.icon6{
+    float: left;
+}
+.icon7{
+    float: left;
+}
+.upgrade{
+    text-align: center;
+    margin-top: 259px;
+    width: 221px;
+    height: 54px;
+    background-color: blue;
+    text-align: center;
+    margin-left: 17px;
+}
+.text1{
+    padding-top: 19px;
+    color: white;
+}
+.contactsupport{
+    margin-top: 18px;
+    width: 221px;
+    height: 54px;
+    background-color: white;
+    margin-left: 17px;
+    }
+.text2{
+    padding-top: 19px;
+    color: blue;
+}
+.logo{
+    padding: 48px 128px
+}
+.sector1{
+    color: brown;
+}
+article{
+    width: 90%;
+    height: 762px;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+.articleimage{
+    height: 100%;
+    width: 55%;
+    float: left;
+}
+.READbutton{
+    background-color: yellow;
+    width: 229px;
+    height: 84px;
+    margin-top: 130px;
+    
+}
+.atricletext{
+    width:35%;
+    float: right;
+}
+.about{
+    padding-bottom: 132px;
+    padding-top: 20px;
+    size: 50px;
+    font-size: 30px;
+}
+.headerright{
+    float: right;
+    margin-top: 59px;
+    margin-right: 95px;
+
+}
+.textmain{
+    color: gray;
+    font-size: 20px;
+}
